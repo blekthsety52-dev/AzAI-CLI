@@ -1,0 +1,5 @@
+{
+  "name": "AzAI-CLI Documentation",
+  "description": "Landing page and documentation for AzAI-CLI, a high-performance C++ 20 command-line interface for Azure AI Services.",
+  "requestFramePermissions": []
+}
