@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://your-resource.openai.azure.com/",
+  "apiKey": "your-azure-openai-api-key",
+  "deploymentName": "gpt-35-turbo",
+  "apiVersion": "2023-05-15",
+  "searchEndpoint": "https://your-search.search.windows.net/",
+  "searchKey": "your-azure-search-key",
+  "searchIndex": "your-index-name",
+  "embeddingDeployment": "embedding",
+  "embeddingModel": "text-embedding-ada-002"
+}
