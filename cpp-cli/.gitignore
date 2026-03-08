@@ -1,0 +1,49 @@
+# Build directories
+build/
+Build/
+cmake-build-*/
+out/
+dist/
+
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.code-workspace
+CMakeUserPresets.json
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Config files (keep example)
+config.json
+!config.json.example
+
+# Dependencies installed by vcpkg
+vcpkg_installed/
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+
+# Conversation history
+conversation.json
+*.history.json
+
+# Temporary files
+*.tmp
+*.bak
+~*
